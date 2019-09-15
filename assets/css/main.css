@@ -2447,7 +2447,7 @@ input, select, textarea {
 	}
 
 	iframe {
-		width: 50vw;
+		width: 56vw;
 		height: 50vh;
 		border: 1px;
 		transform: scale(1.0);
